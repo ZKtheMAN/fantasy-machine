@@ -1,0 +1,15 @@
+C:\Users\zakha\source\repos\fantasy-machine\fantasy-machine\bin\Debug\net6.0\fantasy-machine.exe
+C:\Users\zakha\source\repos\fantasy-machine\fantasy-machine\bin\Debug\net6.0\fantasy-machine.deps.json
+C:\Users\zakha\source\repos\fantasy-machine\fantasy-machine\bin\Debug\net6.0\fantasy-machine.runtimeconfig.json
+C:\Users\zakha\source\repos\fantasy-machine\fantasy-machine\bin\Debug\net6.0\fantasy-machine.dll
+C:\Users\zakha\source\repos\fantasy-machine\fantasy-machine\bin\Debug\net6.0\fantasy-machine.pdb
+C:\Users\zakha\source\repos\fantasy-machine\fantasy-machine\obj\Debug\net6.0\fantasy-machine.csproj.AssemblyReference.cache
+C:\Users\zakha\source\repos\fantasy-machine\fantasy-machine\obj\Debug\net6.0\fantasy-machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakha\source\repos\fantasy-machine\fantasy-machine\obj\Debug\net6.0\fantasy-machine.AssemblyInfoInputs.cache
+C:\Users\zakha\source\repos\fantasy-machine\fantasy-machine\obj\Debug\net6.0\fantasy-machine.AssemblyInfo.cs
+C:\Users\zakha\source\repos\fantasy-machine\fantasy-machine\obj\Debug\net6.0\fantasy-machine.csproj.CoreCompileInputs.cache
+C:\Users\zakha\source\repos\fantasy-machine\fantasy-machine\obj\Debug\net6.0\fantasy-machine.dll
+C:\Users\zakha\source\repos\fantasy-machine\fantasy-machine\obj\Debug\net6.0\refint\fantasy-machine.dll
+C:\Users\zakha\source\repos\fantasy-machine\fantasy-machine\obj\Debug\net6.0\fantasy-machine.pdb
+C:\Users\zakha\source\repos\fantasy-machine\fantasy-machine\obj\Debug\net6.0\fantasy-machine.genruntimeconfig.cache
+C:\Users\zakha\source\repos\fantasy-machine\fantasy-machine\obj\Debug\net6.0\ref\fantasy-machine.dll

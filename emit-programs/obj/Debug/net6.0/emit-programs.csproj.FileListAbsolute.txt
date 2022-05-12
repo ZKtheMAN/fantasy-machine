@@ -1,0 +1,15 @@
+C:\Users\zakha\source\repos\fantasy-machine\emit-programs\bin\Debug\net6.0\emit-programs.exe
+C:\Users\zakha\source\repos\fantasy-machine\emit-programs\bin\Debug\net6.0\emit-programs.deps.json
+C:\Users\zakha\source\repos\fantasy-machine\emit-programs\bin\Debug\net6.0\emit-programs.runtimeconfig.json
+C:\Users\zakha\source\repos\fantasy-machine\emit-programs\bin\Debug\net6.0\emit-programs.dll
+C:\Users\zakha\source\repos\fantasy-machine\emit-programs\bin\Debug\net6.0\emit-programs.pdb
+C:\Users\zakha\source\repos\fantasy-machine\emit-programs\obj\Debug\net6.0\emit-programs.csproj.AssemblyReference.cache
+C:\Users\zakha\source\repos\fantasy-machine\emit-programs\obj\Debug\net6.0\emit-programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakha\source\repos\fantasy-machine\emit-programs\obj\Debug\net6.0\emit-programs.AssemblyInfoInputs.cache
+C:\Users\zakha\source\repos\fantasy-machine\emit-programs\obj\Debug\net6.0\emit-programs.AssemblyInfo.cs
+C:\Users\zakha\source\repos\fantasy-machine\emit-programs\obj\Debug\net6.0\emit-programs.csproj.CoreCompileInputs.cache
+C:\Users\zakha\source\repos\fantasy-machine\emit-programs\obj\Debug\net6.0\emit-programs.dll
+C:\Users\zakha\source\repos\fantasy-machine\emit-programs\obj\Debug\net6.0\refint\emit-programs.dll
+C:\Users\zakha\source\repos\fantasy-machine\emit-programs\obj\Debug\net6.0\emit-programs.pdb
+C:\Users\zakha\source\repos\fantasy-machine\emit-programs\obj\Debug\net6.0\emit-programs.genruntimeconfig.cache
+C:\Users\zakha\source\repos\fantasy-machine\emit-programs\obj\Debug\net6.0\ref\emit-programs.dll
